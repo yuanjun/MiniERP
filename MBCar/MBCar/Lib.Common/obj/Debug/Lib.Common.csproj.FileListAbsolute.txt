@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.Common\bin\Debug\Lib.Common.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.Common\bin\Debug\Lib.Common.pdb
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.Common\obj\Debug\Lib.Common.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.Common\obj\Debug\Lib.Common.pdb

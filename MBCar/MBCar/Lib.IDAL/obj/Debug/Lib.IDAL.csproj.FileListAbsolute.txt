@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.IDAL\bin\Debug\Lib.IDAL.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.IDAL\bin\Debug\Lib.IDAL.pdb
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.IDAL\obj\Debug\Lib.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.IDAL\obj\Debug\Lib.IDAL.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.IDAL\obj\Debug\Lib.IDAL.pdb

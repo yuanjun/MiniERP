@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.DAL.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.DAL.pdb
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.Common.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.IDAL.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.Common.pdb
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\Lib.IDAL.pdb
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\obj\Debug\Lib.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\obj\Debug\Lib.DAL.dll
+C:\Users\Administrator\Desktop\MBCar\MBCar\Lib.DAL\obj\Debug\Lib.DAL.pdb
